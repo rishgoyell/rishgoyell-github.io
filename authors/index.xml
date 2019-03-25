@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Rishabh Goyal</title>
+    <link>https://rishgoyell.github.io/authors/</link>
+    <description>Recent content in Authors on Rishabh Goyal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://rishgoyell.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Difan Liu</title>
+      <link>https://rishgoyell.github.io/authors/difan-liu/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://rishgoyell.github.io/authors/difan-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evangelos Kalogerakis</title>
+      <link>https://rishgoyell.github.io/authors/evangelos-kalogerakis/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://rishgoyell.github.io/authors/evangelos-kalogerakis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gopal Sharma</title>
+      <link>https://rishgoyell.github.io/authors/gopal-sharma/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://rishgoyell.github.io/authors/gopal-sharma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rishabh Goyal</title>
+      <link>https://rishgoyell.github.io/authors/rishabh-goyal/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://rishgoyell.github.io/authors/rishabh-goyal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subhransu Maji</title>
+      <link>https://rishgoyell.github.io/authors/subhransu-maji/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://rishgoyell.github.io/authors/subhransu-maji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>admin</title>
+      <link>https://rishgoyell.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rishgoyell.github.io/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

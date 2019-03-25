@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Rishabh Goyal</title>
+    <link>https://rishgoyell.github.io/authors/admin/</link>
+    <description>Recent content in admin on Rishabh Goyal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://rishgoyell.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://rishgoyell.github.io/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rishgoyell.github.io/author/admin/</guid>
+      <description>I am currently working as a Software Engineer at IBM Research Labs in India. My work primarily involves developing artificial conversational agents that can understand and participate in natural language dialogue. I am interested in Computer Vision and Natural Language Processing applications and have experience working on problems in both fields. I graduated from IIT Kanpur in 2018 with a B.Tech. in Computer Science and Engineering and a minor in Cognitive Science.</description>
+    </item>
+    
+  </channel>
+</rss>
