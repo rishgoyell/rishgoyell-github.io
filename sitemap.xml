@@ -1,40 +1,129 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
     
       <loc>https://rishgoyell.github.io/talk/example/</loc>
-      <lastmod>2030-06-01T13:00:00+05:30</lastmod>
+      <lastmod>2030-06-01T13:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://rishgoyell.github.io/talk/</loc>
+      <lastmod>2030-06-01T13:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://rishgoyell.github.io/</loc>
+      <lastmod>2030-06-01T13:00:00-05:00</lastmod>
     </url>
   
     <url>
     
       <loc>https://rishgoyell.github.io/tutorial/example/</loc>
-      <lastmod>2018-09-09T00:00:00+05:30</lastmod>
+      <lastmod>2018-09-09T00:00:00-05:00</lastmod>
     </url>
   
     <url>
     
       <loc>https://rishgoyell.github.io/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00+05:30</lastmod>
+      <lastmod>2018-09-09T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://rishgoyell.github.io/publication_types/1/</loc>
+      <lastmod>2018-03-04T00:00:00-06:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://rishgoyell.github.io/authors/</loc>
+      <lastmod>2018-03-04T00:00:00-06:00</lastmod>
     </url>
   
     <url>
     
       <loc>https://rishgoyell.github.io/publication/csgnet/</loc>
-      <lastmod>2018-03-04T00:00:00+05:30</lastmod>
+      <lastmod>2018-03-04T00:00:00-06:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://rishgoyell.github.io/authors/difan-liu/</loc>
+      <lastmod>2018-03-04T00:00:00-06:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://rishgoyell.github.io/authors/evangelos-kalogerakis/</loc>
+      <lastmod>2018-03-04T00:00:00-06:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://rishgoyell.github.io/authors/gopal-sharma/</loc>
+      <lastmod>2018-03-04T00:00:00-06:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://rishgoyell.github.io/publication_types/</loc>
+      <lastmod>2018-03-04T00:00:00-06:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://rishgoyell.github.io/publication/</loc>
+      <lastmod>2018-03-04T00:00:00-06:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://rishgoyell.github.io/authors/rishabh-goyal/</loc>
+      <lastmod>2018-03-04T00:00:00-06:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://rishgoyell.github.io/authors/subhransu-maji/</loc>
+      <lastmod>2018-03-04T00:00:00-06:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://rishgoyell.github.io/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://rishgoyell.github.io/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
     </url>
   
     <url>
     
       <loc>https://rishgoyell.github.io/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
     </url>
   
     <url>
     
       <loc>https://rishgoyell.github.io/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://rishgoyell.github.io/project/</loc>
+      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://rishgoyell.github.io/tags/</loc>
+      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
     </url>
   
     <url>
@@ -44,133 +133,22 @@
   
     <url>
     
-      <loc>https://rishgoyell.github.io/publication_types/1/</loc>
-      <lastmod>2018-03-04T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>https://rishgoyell.github.io/author/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://rishgoyell.github.io/authors/</loc>
-      <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://rishgoyell.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://rishgoyell.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://rishgoyell.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://rishgoyell.github.io/authors/difan-liu/</loc>
-      <lastmod>2018-03-04T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://rishgoyell.github.io/authors/evangelos-kalogerakis/</loc>
-      <lastmod>2018-03-04T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://rishgoyell.github.io/authors/gopal-sharma/</loc>
-      <lastmod>2018-03-04T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://rishgoyell.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://rishgoyell.github.io/publication_types/</loc>
-      <lastmod>2018-03-04T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://rishgoyell.github.io/publication/</loc>
-      <lastmod>2018-03-04T00:00:00+05:30</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://rishgoyell.github.io/talk/</loc>
-      <lastmod>2030-06-01T13:00:00+05:30</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://rishgoyell.github.io/</loc>
-      <lastmod>2030-06-01T13:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://rishgoyell.github.io/authors/rishabh-goyal/</loc>
-      <lastmod>2018-03-04T00:00:00+05:30</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://rishgoyell.github.io/slides/</loc>
-      <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://rishgoyell.github.io/slides/example-slides/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>https://rishgoyell.github.io/authors/subhransu-maji/</loc>
-      <lastmod>2018-03-04T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://rishgoyell.github.io/tags/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://rishgoyell.github.io/authors/admin/</loc>
-      <priority>0</priority>
     </url>
   
 </urlset>
